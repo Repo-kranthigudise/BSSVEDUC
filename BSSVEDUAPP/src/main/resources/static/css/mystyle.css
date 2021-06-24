@@ -1,0 +1,55 @@
+#outebox
+{
+	width:320px;
+	overflow:hidden;
+
+}
+#sliderbox
+{
+	position:relative;
+width:2200px;
+
+	animation-iteration-count:infinite;
+	animation:kranthi 20s infinite;
+}
+#sliderbox img
+{
+	float:left;
+}
+@keyframes kranthi{
+
+0%
+{
+	left:0px;
+}
+20%
+{
+left:0px;
+}
+25%
+{
+left:-500px;
+}
+45%{
+left:-500px;
+}
+50%
+{
+	left:-1000px;
+}
+70%{
+
+left:-1000px;
+}
+75%
+{
+	left:-1500px;
+}
+95%
+{
+	left:-1500px;
+}
+100%
+{
+left:-2000px;
+}

@@ -1,0 +1,55 @@
+<style>
+body {
+	background-color: skyblue;
+}
+
+* {
+	padding: 0px;
+	margin:0px;
+	
+}
+
+.lmenu {
+	width: 230px;
+	background: #1a8da9;
+	padding-bottom:1px;
+}
+
+.lmenu a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	padding-right: 10px;
+	
+}
+
+.lmenu ul li {
+	list-style-type: none;
+	display: block;
+	padding: 15px;
+	border-bottom: 1px solid #236d7f;
+}
+
+.lmenu ul li:hover {
+	background: #1a8da9;
+	transition: linear all 0.40s;
+	margin-left: 10px;
+}
+
+.lmenu ul li a:hover {
+	color: black;
+}
+
+.selected {
+	background: #1a8da9;
+}
+
+.selected a {
+	color: black;
+}
+
+.pera {
+	width: 220px;
+	height: 500px;
+}
+</style>
