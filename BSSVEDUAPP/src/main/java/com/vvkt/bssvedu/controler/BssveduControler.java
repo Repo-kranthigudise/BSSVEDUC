@@ -1,24 +1,16 @@
 package com.vvkt.bssvedu.controler;
 
-import java.util.Arrays;
-import java.util.List;
-
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.vvkt.bssvedu.service.Course;
-import com.vvkt.bssvedu.service.ICourse;
-
 @Controller
 public class BssveduControler {
-	@Autowired
-	private ICourse icours;
+	
 
 	@GetMapping("/")
 	public String homePage(Model model) {
-		String msg = "FOR All INFORMATION +91-9700675350";
+		String msg = "FOR All INFORMATION +91-9849295916";
 		model.addAttribute("message", msg);
 		return "home";
 	}
@@ -114,27 +106,7 @@ public class BssveduControler {
 		return "works";
 	}
 
-	// COURSESS LIST CONTRLERS
 
-	@GetMapping("/ahcourse")
-	public String ahCources(Model model) {
-		String msg = "#1: ALLIED HEALTH EDUCATION";
-		Course ahcours = getCourse();
-		model.addAttribute("message", msg);
-		//model.addAttribute("ahcours", ahcours);
-		
-		model.addAttribute("course",ahcours);
-		return "cources";
-	}
-
-	public Course getCourse() {
-		List<Course> clist = Arrays.asList(new Course("ah012", "alaida", "two years", "shl"),
-				new Course("ah013", "saaa", "one years", "shl"), new Course("ah013", "saaa", "one years", "shl"),
-				new Course("ah013", "saaa", "one years", "shl"), new Course("ah013", "saaa", "one years", "shl"),
-				new Course("ah013", "saaa", "one years", "shl"), new Course("ah013", "saaa", "one years", "shl"),
-				new Course("ah013", "saaa", "one years", "shl"), new Course("ah013", "saaa", "one years", "shl"));
-		return (Course) clist;
-
-	}
-
+	
+	
 }

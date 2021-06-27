@@ -96,4 +96,10 @@
 		<put-attribute name="body"
 			value="/WEB-INF/jsp/works.jsp" />
 	</definition>
+	
+	<definition name="ahc" extends="base.definition">
+		<put-attribute name="title" value="BsseduWorks" />
+		<put-attribute name="body"
+			value="/WEB-INF/jsp/ah.jsp" />
+	</definition>
 </tiles-definitions>  

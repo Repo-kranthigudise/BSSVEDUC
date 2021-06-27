@@ -21,6 +21,7 @@ body {
 	padding: 20px;
 	padding-right: 10px;
 	
+	
 }
 
 .lmenu ul li {
@@ -28,6 +29,7 @@ body {
 	display: block;
 	padding: 15px;
 	border-bottom: 1px solid #236d7f;
+	
 }
 
 .lmenu ul li:hover {

@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" import="java.util.*"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8" import="java.util.*"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page isELIgnored="false"%>
 
@@ -94,7 +95,7 @@ a {
 	</div>
 	<hr>
 	<div>
-		<table class="course" id=spcoursess"">
+		<table class="course" >
 			<tr>
 				<th>SNO</th>
 				<th>CATEGORY COURSES</th>
@@ -363,26 +364,17 @@ a {
 		</table>
 	</div>
 	<hr>
-	<div>
-		<table class="course" id="scoursess">
-			<tr>
-				<th>SNO</th>
-				<th>COURSE ID</th>
-				<th>COURSE NAME</th>
-				<th>YEARS</th>
-			</tr>
+	<div style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;text-align: center;color:#3c4f5e">
+		<h6>
+			<b>All Courses List</b>
+		</h6>
+	</div>
+	<div style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
 
-			<c:forEach var="ahc" items="${course}">
-				<td>${ahc.}</td>
-				<td>${ahc.cId}</td>
-				<td>${ahc.cName }</td>
-				<td>${ahc.No_Of_Years}</td>
-				<%-- <c:if test="${loopCounter.count%2 ==0}">
-					<br>
-				</c:if> --%>
-			</c:forEach>
-		</table>
+		<h6>
+			<b>ALLIED HEALTH EDUCATION</b>
+		</h6s>
 	</div>
-	</div>
+	
 </body>
 </html>
