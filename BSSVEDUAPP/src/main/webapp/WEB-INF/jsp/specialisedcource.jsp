@@ -11,7 +11,7 @@
 <body>
 <div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"id="AHC ">
 
 			<h6>
 				<b>SPECIALISED COURSES #1: ALLIED HEALTH COURSES</b>
@@ -361,7 +361,7 @@
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"id="SAC ">
 
 			<h6>
 				<b>SPECIALISED COURSES #2: AVIATION COURSES</b>
@@ -496,7 +496,7 @@
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"id=" BTC">
 
 			<h6>
 				<b>SPECIALISED COURSES #3: BIO-TECHNOLOGY COURSES</b>
@@ -548,7 +548,7 @@
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;" id="BC ">
 
 			<h6>
 				<b>SPECIALISED COURSES #4: BUSINESS COURSES</b>
@@ -1282,7 +1282,7 @@
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"id=" FC">
 
 			<h6>
 				<b>SPECIALISED COURSES #5: FASHION COURSES</b>
@@ -1530,7 +1530,7 @@
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"id="MC">
 
 			<h6>
 				<b>SPECIALISED COURSES #6: MEDIA COURSES</b>
@@ -1756,7 +1756,7 @@
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"id="SC ">
 
 			<h6>
 				<b>SPECIALISED COURSES #7: SHIPPING COURSES</b>

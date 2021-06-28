@@ -6,9 +6,8 @@
 <html>
 <head>
 <title>cources</title>
-<link rel="stylesheet" type="text/css" href="css\ctable.css">
 <style type="text/css">
-.course, .ccourse {
+.course, .ccourse, .tg {
 	align-content: center;
 	padding: 10px;
 	text-align: center;
@@ -34,14 +33,16 @@ a {
 
 .course td {
 	border: 2px solid #9e6c85;
-	font-family: vardana;
+	font-family: Tahoma, Verdana, sans-serif;s
 	text-align: left;
+	padding: 10px 5px;
 }
 
 .ccourse td {
 	border: 2px solid #9e6c85;
-	font-family: vardana;
 	text-align: center;
+	padding: 10px 5px;
+	font-family: Tahoma, Verdana, sans-serif;
 }
 
 .course th {
@@ -49,6 +50,8 @@ a {
 	font-size: 18px;
 	background-color: #8ea397;
 	height: 10px;
+	padding: 10px 5px;
+	font-family: Tahoma, Verdana, sans-serif;
 }
 
 .ccourse th {
@@ -56,6 +59,23 @@ a {
 	font-size: 18px;
 	background-color: #8ea397;
 	height: 10px;
+	padding: 10px 5px;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+.tg th {
+	border: 2px solid #9e6c85;
+	height: 10px;
+	padding: 10px 5px;
+	font-weight: normal;
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+.tg td {
+	border: 2px solid #9e6c85;
+	font-family: Tahoma, Verdana, sans-serif;
+	text-align: center;
+	padding: 10px 5px;
 }
 </style>
 </head>
@@ -107,91 +127,91 @@ a {
 				<td>1</td>
 				<td>ALLIED HEALTH EDUCATION</td>
 				<td>79</td>
-				<td id="hovers"><a href="#cahe">Click Hear</a></td>
+				<td id="hovers"><a href="#AHE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>2</td>
 				<td>AGRICULTURE EDUCATION</td>
 				<td>44</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#AE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>AUTOMOBILE EDUCATION</td>
 				<td>38</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#CAE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>CHILD EDUCATION</td>
 				<td>27</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#CE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
 				<td>CIVIL & ARCHITECTURAL EDUCATION</td>
 				<td>17</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#CAE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>6</td>
 				<td>COMMUNICATIVE & SOFT SKILLS EDUCATION</td>
 				<td>8</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#CSE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>7</td>
 				<td>DAIRY EDUCATION</td>
 				<td>7</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#DE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>8</td>
 				<td>ELECTRICAL & ELECTRONICS EDUCATION</td>
 				<td>46</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#EEE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>9</td>
 				<td>FISHERIES EDUCATION</td>
 				<td>17</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#FE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>10</td>
 				<td>HOME BUSINESS EDUCATION</td>
 				<td>30</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#HBE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>11</td>
 				<td>HOME MAINTENANCE EDUCATION</td>
 				<td>8</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#HME">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>12</td>
 				<td>INTERIOR AND EXTERIOR EDUCATION</td>
 				<td>26</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#IEE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>13</td>
 				<td>OFFICE MANAGEMENT EDUCATION</td>
 				<td>7</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#OME">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>14</td>
 				<td>POULTRY EDUCATION</td>
 				<td>14</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#PE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>15</td>
 				<td>VETERINARY EDUCATION</td>
 				<td>7</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#VE">Click Hear</a></td>
 			</tr>
 		</table>
 	</div>
@@ -209,103 +229,103 @@ a {
 				<td>1</td>
 				<td>ACUPUNCTURE SCHOOL</td>
 				<td>50</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#AC">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>2</td>
 				<td>AYURVEDA SCHOOL</td>
 				<td>45</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#AS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>BEAUTY SCHOOL</td>
 				<td>14</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#BS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>COMPUTER COLLEGE & SCHOOL</td>
 				<td>79</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#CCS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
 				<td>FIRE & SAFETY SCHOOL</td>
 				<td>55</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#FSS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>6</td>
 				<td>FOREST & ENVIRONMENTAL SCHOOL</td>
 				<td>11</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#FES">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>7</td>
 				<td>GEMS & JEWELLERY SCHOOL</td>
 				<td>14</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#GJS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>8</td>
 				<td>GEO SCHOOL</td>
 				<td>5</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#GS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>9</td>
 				<td>HOTEL MANAGEMENT & TOURISM SCHOOL</td>
 				<td>48</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#HMTS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>10</td>
 				<td>LANGUAGE SCHOOL</td>
 				<td>15</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#LS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>11</td>
 				<td>MUSIC SCHOOL</td>
 				<td>14</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#MS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>12</td>
 				<td>SIDDHA SCHOOL</td>
 				<td>22</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#SS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>13</td>
 				<td>SPORTS SCHOOL</td>
 				<td>9</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#SSS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>14</td>
 				<td>TECHNICAL TRAINING SCHOOL</td>
 				<td>59</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#TT">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>15</td>
 				<td>TEXTILE SCHOOL</td>
 				<td>6</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#STS">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>16</td>
 				<td>UNANI SCHOOL</td>
 				<td>10</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#US">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>17</td>
 				<td>YOGA AND NATUROPATHY SCHOOL</td>
 				<td>61</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="YNS">Click Hear</a></td>
 			</tr>
 		</table>
 
@@ -322,43 +342,43 @@ a {
 				<td>1</td>
 				<td>ALLIED HEALTH COURSES</td>
 				<td>53</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#AHC">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>2</td>
 				<td>AVIATION COURSES</td>
 				<td>18</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#SAC">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>BIO-TECHNOLOGY COURSES</td>
 				<td>6</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="specialisedcource.jsp\#BTC">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>BUSINESS COURSES</td>
 				<td>113</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="specialisedcource.jsp\#BE">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
 				<td>FASHION COURSES</td>
 				<td>37</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#FC">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>6</td>
 				<td>MEDIA COURSES</td>
 				<td>33</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#MC">Click Hear</a></td>
 			</tr>
 			<tr>
 				<td>7</td>
 				<td>SHIPPING COURSES</td>
 				<td>27</td>
-				<td id="hovers"><a href="*">Click Hear</a></td>
+				<td id="hovers"><a href="#SC">Click Hear</a></td>
 			</tr>
 		</table>
 	</div>
@@ -370,7 +390,8 @@ a {
 		</h6>
 	</div>
 	<div
-		style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+		style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+		id="AHE">
 
 		<h6>
 			<b>CATEGORY COURSES #1: ALLIED HEALTH EDUCATION</b>
@@ -884,7 +905,8 @@ a {
 	<hr />
 	<!-- Category SECOND TABLE -->
 	<div
-		style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+		style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+		id="AE">
 
 		<h6>
 			<b>CATEGORY COURSES #2: AGRICULTURE EDUCATION</b>
@@ -1175,7 +1197,8 @@ a {
 	<div>
 		<!-- Category SECOND TABLE -->
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="CAU">
 
 			<h6>
 				<b> CATEGORY COURSES #3: AUTOMOBILE EDUCATION</b>
@@ -1436,7 +1459,8 @@ a {
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="CE">
 
 			<h6>
 				<b>CATEGORY COURSES #4: CHILD EDUCATION</b>
@@ -1627,7 +1651,8 @@ a {
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="CAE">
 
 			<h6>
 				<b>CATEGORY COURSES #5: CIVIL & ARCHITECTURAL EDUCATION</b>
@@ -1750,7 +1775,8 @@ a {
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id=" CSE">
 
 			<h6>
 				<b>CATEGORY COURSES #6: COMMUNICATIVE & SOFT SKILLS EDUCATION</b>
@@ -1873,7 +1899,8 @@ a {
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="DE">
 
 			<h6>
 				<b>CATEGORY COURSES #7: DAIRY EDUCATION</b>
@@ -1931,7 +1958,8 @@ a {
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="EEE">
 
 			<h6>
 				<b>CATEGORY COURSES #8: ELECTRICAL & ELECTRONICS EDUCATION</b>
@@ -2237,7 +2265,8 @@ a {
 	<hr />
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="FE">
 
 			<h6>
 				<b>CATEGORY COURSES #9: FISHERIES EDUCATION</b>
@@ -2357,7 +2386,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="HBE">
 
 			<h6>
 				<b>CATEGORY COURSES #10: HOME BUSINESS EDUCATION</b>
@@ -2555,7 +2585,8 @@ a {
 	<!-- Category 11 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="HME">
 
 			<h6>
 				<b>CATEGORY COURSES #11: HOME MAINTENANCE EDUCATION</b>
@@ -2622,7 +2653,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="IEE">
 
 			<h6>
 				<b>CATEGORY COURSES #12: INTERIOR & EXTERIOR EDUCATION</b>
@@ -2800,7 +2832,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="OME">
 
 			<h6>
 				<b>CATEGORY COURSES #13: OFFICE MANAGEMENT EDUCATION</b>
@@ -2934,7 +2967,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="PE">
 
 			<h6>
 				<b>CATEGORY COURSES #14: POULTRY EDUCATION</b>
@@ -3038,7 +3072,8 @@ a {
 	<!-- Category 15 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="VE">
 
 			<h6>
 				<b>CATEGORY COURSES #15: VETERINARY EDUCATION</b>
@@ -3097,7 +3132,8 @@ a {
 	<!-- Category 16 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="AC">
 
 			<h6>
 				<b>SCHOOL COURSES #1: ACUPUNCTURE SCHOOL</b>
@@ -3433,7 +3469,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="AS">
 
 			<h6>
 				<b> SCHOOL COURSES #2: AYURVEDA SCHOOL</b>
@@ -3738,7 +3775,8 @@ a {
 	<!-- SCHOOL  3 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="BS">
 
 			<h6>
 				<b>SCHOOL COURSES #3: BEAUTY SCHOOL</b>
@@ -3843,7 +3881,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="CCS">
 
 			<h6>
 				<b>SCHOOL COURSES #4: COMPUTER COLLEGE & SCHOOL</b>
@@ -3855,7 +3894,7 @@ a {
 					<th class="tg-0lax">1</th>
 					<th class="tg-0lax">CCS001</th>
 					<th class="tg-0lax">POST DIPLOMA IN COMPUTER HARDWARE
-						MAINTENANCE Fees: Rs. 1,800.00</th>
+						MAINTENANCE</th>
 					<th class="tg-0lax">ONE YEAR</th>
 				</tr>
 			</thead>
@@ -3863,501 +3902,474 @@ a {
 				<tr>
 					<td class="tg-0lax">2</td>
 					<td class="tg-0lax">CCS002</td>
-					<td class="tg-0lax">POST DIPLOMA IN COMPUTER APPLICATIONS
-						Fees: Rs. 1,800.00</td>
+					<td class="tg-0lax">POST DIPLOMA IN COMPUTER APPLICATIONS</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">3</td>
 					<td class="tg-0lax">CCS003</td>
-					<td class="tg-0lax">POST DIPLOMA IN SOFTWARE APPLICATIONS
-						Fees: Rs. 1,800.00</td>
+					<td class="tg-0lax">POST DIPLOMA IN SOFTWARE APPLICATIONS</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">4</td>
 					<td class="tg-0lax">CCS004</td>
-					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER APPLICATIONS Fees:
-						Rs. 750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER APPLICATIONS</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">5</td>
 					<td class="tg-0lax">CCS005</td>
 					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER HARDWARE
-						MAINTENANCE AND NETWORK ENGINEERING Fees: Rs. 1,800.00</td>
+						MAINTENANCE AND NETWORK ENGINEERING</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">6</td>
 					<td class="tg-0lax">CCS006</td>
-					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER SCIENCE Fees: Rs.
-						750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER SCIENCE</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">7</td>
 					<td class="tg-0lax">CCS007</td>
-					<td class="tg-0lax">BSS DIPLOMA IN MULTIMEDIA Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN MULTIMEDIA</td>
 					<td class="tg-0lax">THEEE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">8</td>
 					<td class="tg-0lax">CCS008</td>
-					<td class="tg-0lax">BSS DIPLOMA IN WEB DESIGNING Fees: Rs.
-						750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN WEB DESIGNING</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">9</td>
 					<td class="tg-0lax">CCS009</td>
-					<td class="tg-0lax">CERTIFICATE IN MOBILE PHONE TECHNOLOGY
-						Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN MOBILE PHONE TECHNOLOGY</td>
 					<td class="tg-0lax">THEEE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">10</td>
 					<td class="tg-0lax">CCS010</td>
-					<td class="tg-0lax">MULTIMEDIA ANIMATION Fees: Rs. 500.00</td>
+					<td class="tg-0lax">MULTIMEDIA ANIMATION</td>
 					<td class="tg-0lax">THEEE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">11</td>
 					<td class="tg-0lax">CCS011</td>
-					<td class="tg-0lax">BSS DIPLOMA IN DATA ENTRY OPERATOR Fees:
-						Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN DATA ENTRY OPERATOR</td>
 					<td class="tg-0lax">THEEE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">12</td>
 					<td class="tg-0lax">CCS012</td>
 					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER HARDWARE AND
-						NETWORKING Fees: Rs. 750.00</td>
+						NETWORKING</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">13</td>
 					<td class="tg-0lax">CCS013</td>
-					<td class="tg-0lax">CERTIFICATE IN ORACLE Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN ORACLE</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">14</td>
 					<td class="tg-0lax">CCS014</td>
-					<td class="tg-0lax">CERTIFICATE IN VISUAL C++ Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN VISUAL C++</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">15</td>
 					<td class="tg-0lax">CCS015</td>
-					<td class="tg-0lax">CERTIFICATE IN ASP.NET Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN ASP.NET</td>
 					<td class="tg-0lax">FOUR MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">16</td>
 					<td class="tg-0lax">CCS016</td>
-					<td class="tg-0lax">CERTIFICATE IN C#.NET Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN C#.NET</td>
 					<td class="tg-0lax">FOUR MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">17</td>
 					<td class="tg-0lax">CCS017</td>
-					<td class="tg-0lax">CERTIFICATE IN VB.NET Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN VB.NET</td>
 					<td class="tg-0lax">FOUR MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">18</td>
 					<td class="tg-0lax">CCS018</td>
-					<td class="tg-0lax">BSS DIPLOMA IN CAD/CAM PROGRAMMING Fees:
-						Rs. 1,800.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN CAD/CAM PROGRAMMING</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">19</td>
 					<td class="tg-0lax">CCS019</td>
 					<td class="tg-0lax">BSS DIPLOMA GLOBAL HARDWARE AND NETWORKING
-						Fees: Rs. 1,800.00</td>
+					</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">20</td>
 					<td class="tg-0lax">CCS020</td>
-					<td class="tg-0lax">CERTIFICATE IN INFORMATION TECHNOLOGY
-						Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN INFORMATION TECHNOLOGY</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">21</td>
 					<td class="tg-0lax">CCS021</td>
-					<td class="tg-0lax">PREPARATORY COURSE IN CEO Fees: Rs. 500.00</td>
+					<td class="tg-0lax">PREPARATORY COURSE IN CEO</td>
 					<td class="tg-0lax">FOUR MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">22</td>
 					<td class="tg-0lax">CCS022</td>
-					<td class="tg-0lax">CERTIFICATE IN AUTO CAD Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN AUTO CAD</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">23</td>
 					<td class="tg-0lax">CCS023</td>
-					<td class="tg-0lax">PREPARATORY COURSE IN DTP Fees: Rs. 500.00</td>
+					<td class="tg-0lax">PREPARATORY COURSE IN DTP</td>
 					<td class="tg-0lax">FOUR MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">24</td>
 					<td class="tg-0lax">CCS024</td>
-					<td class="tg-0lax">JAVA PROGRAMMING Fees: Rs. 500.00</td>
+					<td class="tg-0lax">JAVA PROGRAMMING</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">25</td>
 					<td class="tg-0lax">CCS025</td>
-					<td class="tg-0lax">BSS DIPLOMA IN ELECTRONIC OFFICE Fees: Rs.
-						750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN ELECTRONIC OFFICE</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">26</td>
 					<td class="tg-0lax">CCS026</td>
-					<td class="tg-0lax">BSS DIPLOMA IN DESKTOP PUBLISHING Fees:
-						Rs. 750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN DESKTOP PUBLISHING</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">27</td>
 					<td class="tg-0lax">CCS027</td>
-					<td class="tg-0lax">CERTIFICATE IN C++ Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN C++</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">28</td>
 					<td class="tg-0lax">CCS028</td>
 					<td class="tg-0lax">CERTIFICATE IN CLERICAL JOBS IN
-						COMPUTERISED OFFICE Fees: Rs. 500.00</td>
+						COMPUTERISED OFFICE</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">29</td>
 					<td class="tg-0lax">CCS029</td>
 					<td class="tg-0lax">CERTIFICATE IN OPERATIONS OF COMPUTER IN
-						RETAIL SHOPS Fees: Rs. 500.00</td>
+						RETAIL SHOPS</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">30</td>
 					<td class="tg-0lax">CCS030</td>
 					<td class="tg-0lax">CERTIFICATE IN DATA ENTRY AND CONSOLE
-						OPERATION Fees: Rs. 500.00</td>
+						OPERATION</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">31</td>
 					<td class="tg-0lax">CCS031</td>
 					<td class="tg-0lax">CERTIFICATE IN COMPUTER HARDWARE
-						MAINTENANCE Fees: Rs. 500.00</td>
+						MAINTENANCE</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">32</td>
 					<td class="tg-0lax">CCS032</td>
-					<td class="tg-0lax">C PROGRAMMING Fees: Rs. 500.00</td>
+					<td class="tg-0lax">C PROGRAMMING</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">33</td>
 					<td class="tg-0lax">CCS033</td>
-					<td class="tg-0lax">VISUAL BASIC Fees: Rs. 500.00</td>
+					<td class="tg-0lax">VISUAL BASIC</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">34</td>
 					<td class="tg-0lax">CCS034</td>
-					<td class="tg-0lax">MS-OFFICE Fees: Rs. 500.00</td>
+					<td class="tg-0lax">MS-OFFICE</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">35</td>
 					<td class="tg-0lax">CCS035</td>
-					<td class="tg-0lax">OPEN OFFICE Fees: Rs. 500.00</td>
+					<td class="tg-0lax">OPEN OFFICE</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">36</td>
 					<td class="tg-0lax">CCS036</td>
-					<td class="tg-0lax">ADOBE PHOTOSHOP Fees: Rs. 500.00</td>
+					<td class="tg-0lax">ADOBE PHOTOSHOP</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">37</td>
 					<td class="tg-0lax">CCS037</td>
-					<td class="tg-0lax">FINANCIAL MANAGEMENT SOFTWARE Fees: Rs.
-						500.00</td>
+					<td class="tg-0lax">FINANCIAL MANAGEMENT SOFTWARE</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">38</td>
 					<td class="tg-0lax">CCS038</td>
-					<td class="tg-0lax">ADOBE PAGE MAKER Fees: Rs. 500.00</td>
+					<td class="tg-0lax">ADOBE PAGE MAKER</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">39</td>
 					<td class="tg-0lax">CCS039</td>
-					<td class="tg-0lax">COREL DRAW Fees: Rs. 500.00</td>
+					<td class="tg-0lax">COREL DRAW</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">40</td>
 					<td class="tg-0lax">CCS040</td>
-					<td class="tg-0lax">EXCEL Fees: Rs. 500.00</td>
+					<td class="tg-0lax">EXCEL</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">41</td>
 					<td class="tg-0lax">CCS041</td>
-					<td class="tg-0lax">WINDOWS/LINUX Fees: Rs. 500.00</td>
+					<td class="tg-0lax">WINDOWS/LINUX</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">42</td>
 					<td class="tg-0lax">CCS042</td>
-					<td class="tg-0lax">COBOL PROGRAMMING Fees: Rs. 500.00</td>
+					<td class="tg-0lax">COBOL PROGRAMMING</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">43</td>
 					<td class="tg-0lax">CCS043</td>
-					<td class="tg-0lax">INTERNET APPLICATIONS Fees: Rs. 500.00</td>
+					<td class="tg-0lax">INTERNET APPLICATIONS</td>
 					<td class="tg-0lax">ONE MONTH</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">44</td>
 					<td class="tg-0lax">CCS044</td>
-					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER FACULTY TRAINING
-						Fees: Rs. 1,800.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER FACULTY TRAINING</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">45</td>
 					<td class="tg-0lax">CCS045</td>
-					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER TC Fees: Rs.
-						1,200.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER TC</td>
 					<td class="tg-0lax">TEN MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">46</td>
 					<td class="tg-0lax">CCS046</td>
 					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN COMPUTER
-						APPLICATION Fees: Rs. 1,800.00</td>
+						APPLICATION</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">47</td>
 					<td class="tg-0lax">CCS047</td>
 					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN INFORMATION
-						TECHNOLOGY Fees: Rs. 1,800.00</td>
+						TECHNOLOGY</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">48</td>
 					<td class="tg-0lax">CCS048</td>
 					<td class="tg-0lax">BSS HONORS DIPLOMA IN MULTIMEDIA
-						PROGRAMMING Fees: Rs. 1,800.00</td>
+						PROGRAMMING</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">49</td>
 					<td class="tg-0lax">CCS049</td>
 					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN MULTIMEDIA
-						PROGRAMMING Fees: Rs. 750.00</td>
+						PROGRAMMING</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">50</td>
 					<td class="tg-0lax">CCS050</td>
 					<td class="tg-0lax">BSS HONORS DIPLOMA IN COMPUTER APPLICATION
-						Fees: Rs. 750.00</td>
+					</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">51</td>
 					<td class="tg-0lax">CCS051</td>
 					<td class="tg-0lax">BSS DIPLOMA IN LAPTOP HARDWARE &amp; WIFI
-						TECHNOLOGY Fees: Rs. 750.00</td>
+						TECHNOLOGY</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">52</td>
 					<td class="tg-0lax">CCS052</td>
-					<td class="tg-0lax">TALLY ERP 9 Fees: Rs. 500.00</td>
+					<td class="tg-0lax">TALLY ERP 9</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">53</td>
 					<td class="tg-0lax">CCS053</td>
 					<td class="tg-0lax">BSS HONORS DIPLOMA IN COMPUTER HARDWARE
-						&amp; NETWORKING Fees: Rs. 750.00</td>
+						&amp; NETWORKING</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">54</td>
 					<td class="tg-0lax">CCS054</td>
 					<td class="tg-0lax">BSS DIPLOMA IN COMPUTER HARDWARE
-						MAINTENANCE Fees: Rs. 500.00</td>
+						MAINTENANCE</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">55</td>
 					<td class="tg-0lax">CCS055</td>
-					<td class="tg-0lax">DOA (MS -OFFICE ONLY) Fees: Rs. 500.00</td>
+					<td class="tg-0lax">DOA (MS -OFFICE ONLY)</td>
 					<td class="tg-0lax">TWO MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">56</td>
 					<td class="tg-0lax">CCS056</td>
-					<td class="tg-0lax">BSS DIPLOMA IN GRAPHICS Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN GRAPHICS</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">57</td>
 					<td class="tg-0lax">CCS057</td>
-					<td class="tg-0lax">BSS DIPLOMA IN 3D ANIMATION Fees: Rs.
-						750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN 3D ANIMATION</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">58</td>
 					<td class="tg-0lax">CCS058</td>
-					<td class="tg-0lax">BSS DIPLOMA IN J2EE Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN J2EE</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">59</td>
 					<td class="tg-0lax">CCS059</td>
-					<td class="tg-0lax">BSS DIPLOMA IN .NET Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN .NET</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">60</td>
 					<td class="tg-0lax">CCS060</td>
-					<td class="tg-0lax">BSS DIPLOMA IN A+ Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN A+</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">61</td>
 					<td class="tg-0lax">CCS061</td>
-					<td class="tg-0lax">BSS DIPLOMA IN N+ Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN N+</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">62</td>
 					<td class="tg-0lax">CCS062</td>
-					<td class="tg-0lax">BSS DIPLOMA IN AUTOCAD Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN AUTOCAD</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">63</td>
 					<td class="tg-0lax">CCS063</td>
-					<td class="tg-0lax">BSS DIPLOMA IN SAP Fees: Rs. 500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN SAP</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">64</td>
 					<td class="tg-0lax">CCS064</td>
-					<td class="tg-0lax">BSS DIPLOMA IN SOFTWARE TESTING Fees: Rs.
-						750.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN SOFTWARE TESTING</td>
 					<td class="tg-0lax">SIX MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">65</td>
 					<td class="tg-0lax">CCS065</td>
-					<td class="tg-0lax">ADVANCED DIPLOMA IN EMBEDDED SYSTEM Fees:
-						Rs. 500.00</td>
+					<td class="tg-0lax">ADVANCED DIPLOMA IN EMBEDDED SYSTEM</td>
 					<td class="tg-0lax">THEEE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">66</td>
 					<td class="tg-0lax">CCS066</td>
-					<td class="tg-0lax">BSS DIPLOMA IN CHIP LEVEL SYSTEM Fees: Rs.
-						500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN CHIP LEVEL SYSTEM</td>
 					<td class="tg-0lax">THREE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">67</td>
 					<td class="tg-0lax">CCS067</td>
-					<td class="tg-0lax">DIPLOMA IN COMPUTER TECHNOLOGY Fees: Rs.
-						1,800.00</td>
+					<td class="tg-0lax">DIPLOMA IN COMPUTER TECHNOLOGY</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">68</td>
 					<td class="tg-0lax">CCS068</td>
-					<td class="tg-0lax">DIPLOMA IN INFORMATION TECHNOLOGY Fees:
-						Rs. 1,800.00</td>
+					<td class="tg-0lax">DIPLOMA IN INFORMATION TECHNOLOGY</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">69</td>
 					<td class="tg-0lax">CCS069</td>
-					<td class="tg-0lax">DIPLOMA IN COMPUTER TECHNOLOGY Fees: Rs.
-						3,600.00</td>
+					<td class="tg-0lax">DIPLOMA IN COMPUTER TECHNOLOGY</td>
 					<td class="tg-0lax">TWO YEARS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">70</td>
 					<td class="tg-0lax">CCS070</td>
-					<td class="tg-0lax">DIPLOMA IN INFORMATION TECHNOLOGY Fees:
-						Rs. 3,600.00</td>
+					<td class="tg-0lax">DIPLOMA IN INFORMATION TECHNOLOGY</td>
 					<td class="tg-0lax">TWO YEARS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">71</td>
 					<td class="tg-0lax">CCS071</td>
-					<td class="tg-0lax">CERTIFICATE IN COMPUTER PYTHON PROGRAMMING
-						Fees: Rs. 500.00</td>
+					<td class="tg-0lax">CERTIFICATE IN COMPUTER PYTHON PROGRAMMING</td>
 					<td class="tg-0lax">THEEE MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">72</td>
 					<td class="tg-0lax">CCS072</td>
-					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN ANIMATION Fees:
-						Rs. 1,800.00</td>
+					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN ANIMATION</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">73</td>
 					<td class="tg-0lax">CCS073</td>
-					<td class="tg-0lax">BSS DIPLOMA IN DIGITAL MARKETING Fees: Rs.
-						500.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN DIGITAL MARKETING</td>
 					<td class="tg-0lax">FOUR MONTHS</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">74</td>
 					<td class="tg-0lax">CCS074</td>
 					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN ANIMATION DESIGN
-						AND TECHNOLOGY Fees: Rs. 1,800.00</td>
+						AND TECHNOLOGY</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">75</td>
 					<td class="tg-0lax">CCS075</td>
 					<td class="tg-0lax">BSS DIPLOMA IN VISUAL DESIGN &amp;
-						COMMUNICATION Fees: Rs. 1,800.00</td>
+						COMMUNICATION</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">76</td>
 					<td class="tg-0lax">CCS076</td>
-					<td class="tg-0lax">BSS DIPLOMA IN GAME DESIGN Fees: Rs.
-						1,800.00</td>
+					<td class="tg-0lax">BSS DIPLOMA IN GAME DESIGN</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
 					<td class="tg-0lax">77</td>
 					<td class="tg-0lax">CCS077</td>
-					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN DATA SCIENCE Fees:
-						Rs. 1,800.00</td>
+					<td class="tg-0lax">BSS ADVANCED DIPLOMA IN DATA SCIENCE</td>
 					<td class="tg-0lax">ONE YEAR</td>
 				</tr>
 				<tr>
@@ -4380,7 +4392,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="FSS">
 
 			<h6>
 				<b>SCHOOL COURSES #5: FIRE & SAFETY SCHOOL</b>
@@ -4765,7 +4778,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="FES">
 
 			<h6>
 				<b>SCHOOL COURSES #6: FOREST & ENVIRONMENTAL SCHOOL</b>
@@ -4853,158 +4867,160 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="GJS">
 
 			<h6>
 				<b>SCHOOL COURSES #7: GEMS & JEWELLERY SCHOOL</b>
 			</h6>
-			</div>
-			<table class="tg">
-				<thead>
-					<tr>
-						<th class="tg-0lax">1</th>
-						<th class="tg-0lax">GJS001</th>
-						<th class="tg-0lax">JEWEL MANUFACTURING</th>
-						<th class="tg-0lax">THREE MONTHS</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td class="tg-0lax">2</td>
-						<td class="tg-0lax">GJS002</td>
-						<td class="tg-0lax">JEWEL CASTING TECHNIQUES</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">3</td>
-						<td class="tg-0lax">GJS003</td>
-						<td class="tg-0lax">GOLD REFINING &amp; ASSAYING TECHNIQUES</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">4</td>
-						<td class="tg-0lax">GJS004</td>
-						<td class="tg-0lax">ELECTROPLATING &amp; POLISHING</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">5</td>
-						<td class="tg-0lax">GJS005</td>
-						<td class="tg-0lax">CERTIFIED JEWELLERY PROFESSIONAL COURSE</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">6</td>
-						<td class="tg-0lax">GJS006</td>
-						<td class="tg-0lax">JEWEL DESIGNING CAD</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">7</td>
-						<td class="tg-0lax">GJS007</td>
-						<td class="tg-0lax">GEMMOLOGY</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">8</td>
-						<td class="tg-0lax">GJS008</td>
-						<td class="tg-0lax">STONE SETTING (METAL SETTING)</td>
-						<td class="tg-0lax">ONE MONTH</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">9</td>
-						<td class="tg-0lax">GJS009</td>
-						<td class="tg-0lax">JEWELLERY APPRAISER</td>
-						<td class="tg-0lax">THREE MONTHS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">10</td>
-						<td class="tg-0lax">GJS010</td>
-						<td class="tg-0lax">JEWELLERY SALES MAN/WOMAN</td>
-						<td class="tg-0lax">ONE MONTH</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">11</td>
-						<td class="tg-0lax">GJS011</td>
-						<td class="tg-0lax">DIAMOND GRADING</td>
-						<td class="tg-0lax">ONE MONTH</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">12</td>
-						<td class="tg-0lax">GJS012</td>
-						<td class="tg-0lax">JEWELLERY HOSTESS</td>
-						<td class="tg-0lax">ONE MONTH</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">13</td>
-						<td class="tg-0lax">GJS013</td>
-						<td class="tg-0lax">JEWELLERY APPRAISER</td>
-						<td class="tg-0lax">ONE MONTH</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">14</td>
-						<td class="tg-0lax">GJS014</td>
-						<td class="tg-0lax">JEWELS &amp; PRECIOUS METAL TECHNICIAN</td>
-						<td class="tg-0lax">ONE YEAR</td>
-					</tr>
-				</tbody>
-			</table>
 		</div>
-	<hr />
-	<!-- Category 10 TABLE -->
-	<div>
-		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
-
-			<h6>
-				<b>SCHOOL COURSES #8: GEO SCHOOL</b>
-			</h6>
-			</div>
-			<table class="tg">
-				<thead>
-					<tr>
-						<th class="tg-0lax">1</th>
-						<th class="tg-0lax">GS001</th>
-						<th class="tg-0lax">BSS DIPLOMA IN GEOGRAPHIC INFORMATION
-							SYSTEM</th>
-						<th class="tg-0lax">TWO YEARS</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td class="tg-0lax">2</td>
-						<td class="tg-0lax">GS002</td>
-						<td class="tg-0lax">BSS DIPLOMA IN GPS NAVIGATION SYSTEM</td>
-						<td class="tg-0lax">ONE YEAR</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">3</td>
-						<td class="tg-0lax">GS003</td>
-						<td class="tg-0lax">BSS DIPLOMA IN GEO-SATELITTE
-							COMMUNICATION</td>
-						<td class="tg-0lax">ONE YEAR</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">4</td>
-						<td class="tg-0lax">GS004</td>
-						<td class="tg-0lax">BSS DIPLOMA IN GPS INSTRUMENT TECHNOLOGY</td>
-						<td class="tg-0lax">TWO YEARS</td>
-					</tr>
-					<tr>
-						<td class="tg-0lax">5</td>
-						<td class="tg-0lax">GS005</td>
-						<td class="tg-0lax">BSS DIPLOMA IN REMOTE SENSING AND GIS
-							TECHNOLOGY</td>
-						<td class="tg-0lax">TWO YEARS</td>
-					</tr>
-				</tbody>
-			</table>
+		<table class="tg">
+			<thead>
+				<tr>
+					<th class="tg-0lax">1</th>
+					<th class="tg-0lax">GJS001</th>
+					<th class="tg-0lax">JEWEL MANUFACTURING</th>
+					<th class="tg-0lax">THREE MONTHS</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="tg-0lax">2</td>
+					<td class="tg-0lax">GJS002</td>
+					<td class="tg-0lax">JEWEL CASTING TECHNIQUES</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">3</td>
+					<td class="tg-0lax">GJS003</td>
+					<td class="tg-0lax">GOLD REFINING &amp; ASSAYING TECHNIQUES</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">4</td>
+					<td class="tg-0lax">GJS004</td>
+					<td class="tg-0lax">ELECTROPLATING &amp; POLISHING</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">5</td>
+					<td class="tg-0lax">GJS005</td>
+					<td class="tg-0lax">CERTIFIED JEWELLERY PROFESSIONAL COURSE</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">6</td>
+					<td class="tg-0lax">GJS006</td>
+					<td class="tg-0lax">JEWEL DESIGNING CAD</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">7</td>
+					<td class="tg-0lax">GJS007</td>
+					<td class="tg-0lax">GEMMOLOGY</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">8</td>
+					<td class="tg-0lax">GJS008</td>
+					<td class="tg-0lax">STONE SETTING (METAL SETTING)</td>
+					<td class="tg-0lax">ONE MONTH</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">9</td>
+					<td class="tg-0lax">GJS009</td>
+					<td class="tg-0lax">JEWELLERY APPRAISER</td>
+					<td class="tg-0lax">THREE MONTHS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">10</td>
+					<td class="tg-0lax">GJS010</td>
+					<td class="tg-0lax">JEWELLERY SALES MAN/WOMAN</td>
+					<td class="tg-0lax">ONE MONTH</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">11</td>
+					<td class="tg-0lax">GJS011</td>
+					<td class="tg-0lax">DIAMOND GRADING</td>
+					<td class="tg-0lax">ONE MONTH</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">12</td>
+					<td class="tg-0lax">GJS012</td>
+					<td class="tg-0lax">JEWELLERY HOSTESS</td>
+					<td class="tg-0lax">ONE MONTH</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">13</td>
+					<td class="tg-0lax">GJS013</td>
+					<td class="tg-0lax">JEWELLERY APPRAISER</td>
+					<td class="tg-0lax">ONE MONTH</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">14</td>
+					<td class="tg-0lax">GJS014</td>
+					<td class="tg-0lax">JEWELS &amp; PRECIOUS METAL TECHNICIAN</td>
+					<td class="tg-0lax">ONE YEAR</td>
+				</tr>
+			</tbody>
+		</table>
 	</div>
 	<hr />
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="GS">
+
+			<h6>
+				<b>SCHOOL COURSES #8: GEO SCHOOL</b>
+			</h6>
+		</div>
+		<table class="tg">
+			<thead>
+				<tr>
+					<th class="tg-0lax">1</th>
+					<th class="tg-0lax">GS001</th>
+					<th class="tg-0lax">BSS DIPLOMA IN GEOGRAPHIC INFORMATION
+						SYSTEM</th>
+					<th class="tg-0lax">TWO YEARS</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="tg-0lax">2</td>
+					<td class="tg-0lax">GS002</td>
+					<td class="tg-0lax">BSS DIPLOMA IN GPS NAVIGATION SYSTEM</td>
+					<td class="tg-0lax">ONE YEAR</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">3</td>
+					<td class="tg-0lax">GS003</td>
+					<td class="tg-0lax">BSS DIPLOMA IN GEO-SATELITTE COMMUNICATION</td>
+					<td class="tg-0lax">ONE YEAR</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">4</td>
+					<td class="tg-0lax">GS004</td>
+					<td class="tg-0lax">BSS DIPLOMA IN GPS INSTRUMENT TECHNOLOGY</td>
+					<td class="tg-0lax">TWO YEARS</td>
+				</tr>
+				<tr>
+					<td class="tg-0lax">5</td>
+					<td class="tg-0lax">GS005</td>
+					<td class="tg-0lax">BSS DIPLOMA IN REMOTE SENSING AND GIS
+						TECHNOLOGY</td>
+					<td class="tg-0lax">TWO YEARS</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<hr />
+	<!-- Category 10 TABLE -->
+	<div>
+		<div
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="HMTS">
 
 			<h6>
 				<b>SCHOOL COURSES #9: HOTEL MANAGEMENT & TOURISM SCHOOL</b>
@@ -5317,7 +5333,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="LS">
 
 			<h6>
 				<b>SCHOOL COURSES #10: LANGUAGE SCHOOL</b>
@@ -5425,7 +5442,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="MS">
 
 			<h6>
 				<b>SCHOOL COURSES #11: MUSIC SCHOOL</b>
@@ -5526,7 +5544,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="SS">
 
 			<h6>
 				<b>SCHOOL COURSES #12: SIDDHA SCHOOL</b>
@@ -5683,7 +5702,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="SSS">
 
 			<h6>
 				<b>SCHOOL COURSES #13: SPORTS SCHOOL</b>
@@ -5757,7 +5777,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="TT">
 
 			<h6>
 				<b>SCHOOL COURSES #14: TECHNICAL TRAINING SCHOOL</b>
@@ -6148,7 +6169,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="STS">
 
 			<h6>
 				<b>SCHOOL COURSES #15: TEXTILE SCHOOL</b>
@@ -6202,7 +6224,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="US">
 
 			<h6>
 				<b>SCHOOL COURSES #16: UNANI SCHOOL</b>
@@ -6279,7 +6302,8 @@ a {
 	<!-- Category 10 TABLE -->
 	<div>
 		<div
-			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;">
+			style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"
+			id="YNS">
 
 			<h6>
 				<b>SCHOOL COURSES #17: YOGA AND NATUROPATHY SCHOOL</b>
@@ -6687,9 +6711,9 @@ a {
 		</table>
 	</div>
 	<!-- Specilised 10 TABLE -->
-	
+
 	<hr />
 	<!-- Category 10 TABLE -->
-	<jsp:include page="specialisedcource.jsp" /> 
+	<jsp:include page="specialisedcource.jsp" />
 </body>
 </html>
