@@ -5,82 +5,54 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>photos</title>
-<style type="text/css">
-#imgrepit {
-	height: 100px;
-	width: 120px;
-}
-
-.photos {
-	padding-bottom: 5px;
-	padding-left: 20px;
-	padding-right: 5px;
-	padding-top: 5px;
-}
-
-.photos.tr.td {
-	padding: 5px;
-}
-
-.main_view {
-	width: 70%;
-	height: 20rem;
-	padding-left: 150px;
-	border-radius:10px;
-}
-
-.main_view img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-}
-
-img {
-	width: 120px;
-	height: 100px;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="css\photo.css">
 </head>
 <body>
-	<div style="background-color: #e35b12; height: 40px; width: auto;">
+	<div
+		style="background-color: #ad6e02; height: 40px; width: auto; align-content: center;">
 
-		<h3>
-			<center>
-				<b>${message}:</b>
-			</center>
+		<h3 style="text-align: center; padding: 10px">
+			<b>${message}</b>
 		</h3>
 	</div>
-
+	<hr />
+	<br />
 	<div class="main_view">
-		<img src="images/photos/4.Jpg" id="main" alt="IMAGE">
+		<img src="images/photos/1.Jpg" id="main" alt="IMAGE">
 	</div>
-	<hr>
+	<div>
+	
+	</div>
+	<br/>
+	<hr />
 
+<h3 style="padding-left: 50px;color: #3e7d6a ">Click On A Photo To Zoom</h3>
 
-	<table class="photos">
+	<table class="photos" style="padding-left: 100px;padding-top: 10px;">
 
 		<tr>
-			<td><img src="images/photos/3.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/5.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/4.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/8.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/a2.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/a5.png" onclick="change(this.src)"></td>
+			<td><img src="images/photos/a4.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/s4.Jpg" onclick="change(this.src)"></td>
 		</tr>
-		<tr></tr>
 		<tr>
-			<td><img src="images/photos/2.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/7.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/1.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/6.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/a1.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/b1.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/1.Jpg"  onclick="change(this.src)"></td>
+			<td><img src="images/photos/b2.Jpg" onclick="change(this.src)"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="images/photos/t1.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/a7.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/s1.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images/photos/r1.Jpg" onclick="change(this.src)"></td>
 		</tr>
 	</table>
 	<hr>
 	<div>
-		<p>This site belongs to student Education for lerning Courcess
-			WWW.BSSEDU.IN offering to jaoing anf lern more courcess inthi site a
-			Student can serach what about cource he need that cource information
-			he can get on that cource and toknow more information go to menu bar
-			and click contact us link To know Now More Information Call To This
-			BeLlow Given Phone Number</p>
+		<p></p>
 	</div>
 	<script type="text/javascript">
         const change = src => {

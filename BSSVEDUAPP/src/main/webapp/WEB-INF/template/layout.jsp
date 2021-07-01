@@ -18,12 +18,13 @@
 <meta name="distribution" content="global">
 <meta name="revisit-after" content="2 Days">
 <meta name="robots" content="ALL">
-<meta name="rating" content="8 YEARS">
 <meta name="Language" content="en-us">
 <meta name="GOOGLEBOT" content="NOARCHIVE">
-<!-- Mobile Specific Metas
+<!-- Mobile Specific Meta
 		 ================================================== -->
-<link rel="stylesheet" href="css\\w3.css">
+<meta name="viewport"
+			content="width=device-width, initial-scale=1, maximum-scale=1">
+
 <title><tiles:insertAttribute name="title" ignore="true" /></title>
 
 <style type="text/css">
@@ -45,16 +46,14 @@
 
 		<div
 			style="padding-left: 230px; padding-right: 5px; padding-top: 3px; height: 30px;">
-			<table border="2" height=30px " width="100%" bgcolor="darkcyan">
+			<table border="2" height="30px" width="100%" bgcolor="darkcyan">
 				<tr>
-					<td><center>
+					<td>
 							<marquee>
-								<font style="color: #fafbff; font-style:;"> This Site
-									Developed only for Student Education Purpose by WWW.BSSVEDU.IN
+								<font style="color: #fafbff; font-style:;">This Site only for Student Education Purpose by WWW.BSSVEDU.IN &nbsp|&nbspFor All Information Contact +91-9849295916 (6Am  - 9 PM) Open All working Days & Monday To Sunday 6Am-9PM.
 								</font>
 							</marquee></td>
 				</tr>
-				</center>
 			</table>
 
 		</div>

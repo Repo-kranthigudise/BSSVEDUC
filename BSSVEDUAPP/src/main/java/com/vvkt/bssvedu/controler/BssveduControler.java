@@ -29,13 +29,6 @@ public class BssveduControler {
 		return "photos";
 	}
 
-	@GetMapping("/videos")
-	public String bssVideos(Model model) {
-		String msg = "VIDEOS";
-		model.addAttribute("message", msg);
-		return "videos";
-	}
-
 	@GetMapping("/contactus")
 	public String contactUs(Model model) {
 		String msg = "CONTACT US";

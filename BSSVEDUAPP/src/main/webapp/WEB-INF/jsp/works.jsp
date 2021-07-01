@@ -10,7 +10,9 @@
 </head>
 <body>
 <div style="background-color: #e35b12; height: 40px;width:auto;">
-		<h3><center><b>${message}:</b></center></h3>
-	</div>
+		<h3 style="text-align: center; padding: 10px">
+				<b>${message}</b>
+		</h3>
+		</div>
 </body>
 </html>

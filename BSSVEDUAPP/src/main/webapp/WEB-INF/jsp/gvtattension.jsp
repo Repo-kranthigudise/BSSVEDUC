@@ -7,10 +7,10 @@
 <title>gvtattension</title>
 </head>
 <body>
-	<div style="background-color: #e35b12; height: 40px; width: auto;">
+	<div style="background-color: #e35b12; height: 40px;width: auto;">
 
-		<h3 style="text-align: center">
-				<b>${message}:</b>
+		<h3 style="text-align: center; padding: 10px">
+				<b>${message}</b>
 		</h3>
 	</div>
 

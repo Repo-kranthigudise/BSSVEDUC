@@ -83,8 +83,8 @@ a {
 	<div
 		style="background-color: #ad6e02; height: 40px; width: auto; color: #131117;">
 
-		<h3>
-			<b>${message}:</b>
+		<h3 style="text-align: center; padding: 10px">
+			<b>${message}</b>
 		</h3>
 	</div>
 
@@ -384,10 +384,10 @@ a {
 	</div>
 	<hr>
 	<div
-		style="background-color: #ad6e02; height: 20px; width: auto; color: #131117; text-align: center; color: #3c4f5e">
-		<h6>
+		style=" height: 30px; width: auto; color: #2e800e; text-align: center; color: #3c4f5e">
+		<h4>
 			<b>All Courses List</b>
-		</h6>
+		</h4>
 	</div>
 	<div
 		style="background-color: #ad6e02; height: 20px; width: auto; color: #131117;"

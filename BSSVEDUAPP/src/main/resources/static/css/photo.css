@@ -1,0 +1,35 @@
+<style>
+#imgrepit {
+	height: 100px;
+	width: 120px;
+}
+
+.photos {
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 5px;
+	padding-top: 5px;
+}
+
+.photos.tr.td {
+	padding: 5px;
+}
+
+.main_view {
+	width: 70%;
+	height: 27rem;
+	padding-left: 150px;
+	border-radius: 10px;
+}
+
+.main_view img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+img {
+	width: 120px;
+	height: 100px;
+}
+</style>

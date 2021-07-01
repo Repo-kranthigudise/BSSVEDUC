@@ -2,7 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>bssv footer</title>
+<title>bssvedu footer</title>
+<style type="text/css">
+a:hover{
+color: #81e392;
+}
+</style>
 </head>
 
 <body>
@@ -19,7 +24,7 @@
     <td width="668" height="60" align="center" valign="middle" bgcolor="#005486"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="1">
     &copy BSSVEDU HYD<br/>HNO:2-1-271/2,STREETNO 5 beside parinayam grand resturent,mamathanagar colony,Nagole Hyderabad - 500 068, Telangana, India<br />
  Phone :  +91-9849295916</font></td>
-    <td width="165" align="center" valign="middle" bgcolor="#005486"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="1">Designed by: <a href="https://vvkteam.blogspot.com/2021/06/vvk-team.html" target="_blank" class="headermenus">
+    <td width="165" align="center" valign="middle" bgcolor="#005486"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="1">Designed by: <a href="https://vvkteam.blogspot.com/2021/06/vvk-team.html" style="font-size: 10px;color: #faf5f5;" target="_blank" class="headermenus">
                 <strong>VVKTeam</strong></a></font></td>
   </tr>
 </table>

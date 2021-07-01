@@ -8,7 +8,7 @@
 <style type="text/css">
 .imagescroll {
 	width: 50%;
-	height: 450px;
+	height: 480px;
 	margin: auto;
 }
 
@@ -24,39 +24,40 @@
 	margin: auto;
 	align-content: center;
 	font-style: arial;
-	}
+}
 </style>
 </head>
 <body>
 
 	<div style="background-color: #e35b12; height: 40px; width: auto;">
 
-		<h3 style="color: yellow">
-			<center>
-				<b>${message}&nbsp<b style="font-size: 18px; color: white">(9
-						Am&nbsp-&nbsp7 PM)</b>
-				</h5></b>
-			</center>
+		<h3 style="text-align: center;padding:3px;color: yellow;">
+				<b>${message}</b>
+					<b style="font-size: 18px; color: white">(6Am &nbsp-&nbsp9 PM)&nbspMON-SUN</h5></b>
+					
 		</h3>
 	</div>
 
 	<div class="imagescroll">
-		<table bgcolor="#817f8f" style="margin: 60px; border-radius: 5px;">
+		<table bgcolor="#ad8f07" style="margin: 60px; border-radius: 5px;height:450px;">
 			<tr>
-				<td><img src="images/workcer.jpg" id="imgrepit"></td>
+				<td><img src="images/home.jpg" id="imgrepit"></td>
 			</tr>
 
 
 		</table>
 	</div>
 	<div class="imagescrolls">
-	<b>NOTE:</b>	<p>This site belongs to student Education for lerning Courcess
-			WWW.BSSEDU.IN offering to jaoing anf lern more courcess inthi site a
-			Student can serach what about cource he need that cource information
-			he can get on that cource and toknow more information go to menu bar
-			and click contact us link To know Now More Information Call To This
-			BeLlow Given Phone Number</P>
-
+		<b>NOTE:</b>
+		<p>Bharath Sevak Samaj is the National Development Agency Promoted
+			By the Planning Commission , government of India to ensure public
+			Co-operation for implementing government plans. The main purpose
+			behind the formulation of Bharath Sevak Samaj is to initiate a nation
+			wide, non-official and non-political organization with the object of
+			enabling individual citizens to contribute, in the form of an
+			organized co-operative effort, to the implementation of the National
+			Development Plan. The constitution and functioning of Bharath Sevak
+			Samaj is approved unanimously by the Indian Parliament.
 	</div>
 </body>
 </html>

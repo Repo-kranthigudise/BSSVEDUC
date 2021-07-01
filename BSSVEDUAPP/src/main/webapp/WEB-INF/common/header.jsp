@@ -18,7 +18,7 @@
 					<h4>
 						<u><center><b>(NATIONAL DEVELOPMENT AGENCY,ESTABLISHED IN 1952 BY PLANNING COMMISION,GOVT.OF INDIA)</b></center>
 					 </u></h4></td>
-				<td><img src="images\\gan.png" style="height: 110px; width: 100px;padding-right:5px;border-radius: 72px;"
+				<td><img src="images\\jn.jpg" style="height: 110px; width: 100px;padding-right:5px;border-radius: 72px;"
 					align="right" /></td>
 			</tr>
 		</table>
@@ -30,7 +30,7 @@
 			<li><a href="${pageContext.request.contextPath}/">HOME</a></li>
 			<li><a href="${pageContext.request.contextPath}/cource">COURSES</a></li>
 			<li><a href="${pageContext.request.contextPath}/photos">PHOTOS</a></li>
-			<li><a href="${pageContext.request.contextPath}/videos">VIDEOS</a></li>
+			<li><a href="https://www.youtube.com/channel/UCIIGIxPtIIlDRnW2-FaYJJg" target="_blank">VIDEOS</a></li>
 			<li><a href="${pageContext.request.contextPath}/contactus">CONTACTUS</a></li>
 
 		</ul>
