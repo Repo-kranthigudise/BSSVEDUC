@@ -18,7 +18,7 @@
 	<hr />
 	<br />
 	<div class="main_view">
-		<img src="images/photos/1.Jpg" id="main" alt="IMAGE">
+		<img src="images/photos/P1.Jpg" id="main" alt="IMAGE">
 	</div>
 	<div>
 	
@@ -39,7 +39,7 @@
 		<tr>
 			<td><img src="images/photos/a1.Jpg" onclick="change(this.src)"></td>
 			<td><img src="images/photos/b1.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images/photos/1.Jpg"  onclick="change(this.src)"></td>
+			<td><img src="images/photos/P1.Jpg"  onclick="change(this.src)"></td>
 			<td><img src="images/photos/b2.Jpg" onclick="change(this.src)"></td>
 		</tr>
 		
