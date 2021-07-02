@@ -4,6 +4,9 @@
 <html>
 <head>
 <title>contact</title>
+<style>
+b,p{ padding: 10px;}
+</style>
 </head>
 <body>
 	<div style="background-color: #ad6e02; height: 40px; width: auto;">
@@ -35,8 +38,8 @@
 			certificates are looks Orginals like bss Certificate &amp; &nbsp;bss
 			Marks sheets for eliminating from fraude and fakes.how he can get
 			original certificate directly from bssve, this is only for
-			promotional site of bssve,</p>
-		more information contact bellow ..
+			promotional site of bssve,<br />
+	More information contact bellow ..</p>
 	</div>
 	<hr />
 	<br>
@@ -46,16 +49,17 @@
 	<br />
 	<br />
 	<div style="font-size: 14px; padding-left: 50px;">
-		<table style="height: auto; width: 350px;">
+		<table>
 			<tr>
-				<td><b>ADRESS&nbsp;:</b></td>
-				<td style="width: 250px"><p>H No:2-1-271/2, Street No 5,
+				<td><b>ADRESS&nbsp;:</b></td></tr>
+				<tr><td></td>
+				<td style="width: 250px"><p>H No:2-1-271/2, Street No 5,<br/>
 						Landmark: beside Parinayam Grand Restaurant, Mamathanagar Colony,
-						Nagole Pincode:500068,Hyderabad.</p></td>
+						Nagole,Hyderabad Pincode:500068.</p></td>
 			</tr>
 			<tr>
 				<td><b>NAME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</b></td>
-				<td>Dr J.Purushotham J</td>
+				<td>J.Purushotham</td>
 			</tr>
 			<tr>
 				<td><b>PHONE &nbsp;&nbsp;:</b></td>
@@ -66,13 +70,17 @@
 				<td style="color: blue">bssvedu.in@gmail.com</td>
 			</tr>
 		</table>
-		
 	</div>
+	<br/>
 	<hr />
-	<b>Office Location In Map</b><br /><br />
-	<div style="background-color: #0f805c;color: #f2f2f2;">
-	  <a href="https://www.google.com/maps/place/17%C2%B022'46.4%22N+78%C2%B033'31.6%22E/@17.3795533,78.556586,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d17.3795533!4d78.5587747?hl=en"target="_blank">BssveduHyd</a>
-	</div>
+	<b>Office Location In Map:</b><br /><br />
+	<div>
+	 <a href="https://www.google.com/maps/place/17%C2%B022'46.4%22N+78%C2%B033'31.6%22E/@17.3795533,78.556586,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d17.3795533!4d78.5587747?hl=en"target="_blank"><img src="images\gmap.png" style="height: 50px;width: 50px;padding-left:150px;"></img></a>
+</div>	<br/>
+	<h4 style="padding-left: 125px; color: #1e3b6e">BSSVEDUHYD </h3><br/>
+	<div style="background-color: #0f805c;color: #f2f2f2;text-align: center;">
+	THANK YOU
+	 </div>
 		 
 </body>
 </html>

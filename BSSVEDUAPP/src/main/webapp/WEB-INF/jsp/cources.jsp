@@ -99,17 +99,17 @@ a {
 			<tr>
 				<td>1</td>
 				<td>CATEGORY COURSES</td>
-				<td id="hovers"><a href="#spcoursess">Click Hear</a></td>
+				<td id="hovers"><a href="#spcoursess">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>2</td>
 				<td>SCHOOL COURSES</td>
-				<td id="hovers"><a href="#sccoursess">Click Hear</a></td>
+				<td id="hovers"><a href="#sccoursess">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>SPECIALISED COURSES</td>
-				<td id="hovers"><a href="#scoursess">Click Hear</a></td>
+				<td id="hovers"><a href="#scoursess">Click Here</a></td>
 			</tr>
 		</table>
 	</div>
@@ -127,91 +127,91 @@ a {
 				<td>1</td>
 				<td>ALLIED HEALTH EDUCATION</td>
 				<td>79</td>
-				<td id="hovers"><a href="#AHE">Click Hear</a></td>
+				<td id="hovers"><a href="#AHE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>2</td>
 				<td>AGRICULTURE EDUCATION</td>
 				<td>44</td>
-				<td id="hovers"><a href="#AE">Click Hear</a></td>
+				<td id="hovers"><a href="#AE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>AUTOMOBILE EDUCATION</td>
 				<td>38</td>
-				<td id="hovers"><a href="#CAE">Click Hear</a></td>
+				<td id="hovers"><a href="#CAE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>CHILD EDUCATION</td>
 				<td>27</td>
-				<td id="hovers"><a href="#CE">Click Hear</a></td>
+				<td id="hovers"><a href="#CE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
 				<td>CIVIL & ARCHITECTURAL EDUCATION</td>
 				<td>17</td>
-				<td id="hovers"><a href="#CAE">Click Hear</a></td>
+				<td id="hovers"><a href="#CAE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>6</td>
 				<td>COMMUNICATIVE & SOFT SKILLS EDUCATION</td>
 				<td>8</td>
-				<td id="hovers"><a href="#CSE">Click Hear</a></td>
+				<td id="hovers"><a href="#CSE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>7</td>
 				<td>DAIRY EDUCATION</td>
 				<td>7</td>
-				<td id="hovers"><a href="#DE">Click Hear</a></td>
+				<td id="hovers"><a href="#DE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>8</td>
 				<td>ELECTRICAL & ELECTRONICS EDUCATION</td>
 				<td>46</td>
-				<td id="hovers"><a href="#EEE">Click Hear</a></td>
+				<td id="hovers"><a href="#EEE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>9</td>
 				<td>FISHERIES EDUCATION</td>
 				<td>17</td>
-				<td id="hovers"><a href="#FE">Click Hear</a></td>
+				<td id="hovers"><a href="#FE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>10</td>
 				<td>HOME BUSINESS EDUCATION</td>
 				<td>30</td>
-				<td id="hovers"><a href="#HBE">Click Hear</a></td>
+				<td id="hovers"><a href="#HBE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>11</td>
 				<td>HOME MAINTENANCE EDUCATION</td>
 				<td>8</td>
-				<td id="hovers"><a href="#HME">Click Hear</a></td>
+				<td id="hovers"><a href="#HME">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>12</td>
 				<td>INTERIOR AND EXTERIOR EDUCATION</td>
 				<td>26</td>
-				<td id="hovers"><a href="#IEE">Click Hear</a></td>
+				<td id="hovers"><a href="#IEE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>13</td>
 				<td>OFFICE MANAGEMENT EDUCATION</td>
 				<td>7</td>
-				<td id="hovers"><a href="#OME">Click Hear</a></td>
+				<td id="hovers"><a href="#OME">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>14</td>
 				<td>POULTRY EDUCATION</td>
 				<td>14</td>
-				<td id="hovers"><a href="#PE">Click Hear</a></td>
+				<td id="hovers"><a href="#PE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>15</td>
 				<td>VETERINARY EDUCATION</td>
 				<td>7</td>
-				<td id="hovers"><a href="#VE">Click Hear</a></td>
+				<td id="hovers"><a href="#VE">Click Here</a></td>
 			</tr>
 		</table>
 	</div>
@@ -229,103 +229,103 @@ a {
 				<td>1</td>
 				<td>ACUPUNCTURE SCHOOL</td>
 				<td>50</td>
-				<td id="hovers"><a href="#AC">Click Hear</a></td>
+				<td id="hovers"><a href="#AC">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>2</td>
 				<td>AYURVEDA SCHOOL</td>
 				<td>45</td>
-				<td id="hovers"><a href="#AS">Click Hear</a></td>
+				<td id="hovers"><a href="#AS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td>BEAUTY SCHOOL</td>
 				<td>14</td>
-				<td id="hovers"><a href="#BS">Click Hear</a></td>
+				<td id="hovers"><a href="#BS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>COMPUTER COLLEGE & SCHOOL</td>
 				<td>79</td>
-				<td id="hovers"><a href="#CCS">Click Hear</a></td>
+				<td id="hovers"><a href="#CCS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
 				<td>FIRE & SAFETY SCHOOL</td>
 				<td>55</td>
-				<td id="hovers"><a href="#FSS">Click Hear</a></td>
+				<td id="hovers"><a href="#FSS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>6</td>
 				<td>FOREST & ENVIRONMENTAL SCHOOL</td>
 				<td>11</td>
-				<td id="hovers"><a href="#FES">Click Hear</a></td>
+				<td id="hovers"><a href="#FES">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>7</td>
 				<td>GEMS & JEWELLERY SCHOOL</td>
 				<td>14</td>
-				<td id="hovers"><a href="#GJS">Click Hear</a></td>
+				<td id="hovers"><a href="#GJS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>8</td>
 				<td>GEO SCHOOL</td>
 				<td>5</td>
-				<td id="hovers"><a href="#GS">Click Hear</a></td>
+				<td id="hovers"><a href="#GS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>9</td>
 				<td>HOTEL MANAGEMENT & TOURISM SCHOOL</td>
 				<td>48</td>
-				<td id="hovers"><a href="#HMTS">Click Hear</a></td>
+				<td id="hovers"><a href="#HMTS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>10</td>
 				<td>LANGUAGE SCHOOL</td>
 				<td>15</td>
-				<td id="hovers"><a href="#LS">Click Hear</a></td>
+				<td id="hovers"><a href="#LS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>11</td>
 				<td>MUSIC SCHOOL</td>
 				<td>14</td>
-				<td id="hovers"><a href="#MS">Click Hear</a></td>
+				<td id="hovers"><a href="#MS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>12</td>
 				<td>SIDDHA SCHOOL</td>
 				<td>22</td>
-				<td id="hovers"><a href="#SS">Click Hear</a></td>
+				<td id="hovers"><a href="#SS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>13</td>
 				<td>SPORTS SCHOOL</td>
 				<td>9</td>
-				<td id="hovers"><a href="#SSS">Click Hear</a></td>
+				<td id="hovers"><a href="#SSS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>14</td>
 				<td>TECHNICAL TRAINING SCHOOL</td>
 				<td>59</td>
-				<td id="hovers"><a href="#TT">Click Hear</a></td>
+				<td id="hovers"><a href="#TT">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>15</td>
 				<td>TEXTILE SCHOOL</td>
 				<td>6</td>
-				<td id="hovers"><a href="#STS">Click Hear</a></td>
+				<td id="hovers"><a href="#STS">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>16</td>
 				<td>UNANI SCHOOL</td>
 				<td>10</td>
-				<td id="hovers"><a href="#US">Click Hear</a></td>
+				<td id="hovers"><a href="#US">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>17</td>
 				<td>YOGA AND NATUROPATHY SCHOOL</td>
 				<td>61</td>
-				<td id="hovers"><a href="YNS">Click Hear</a></td>
+				<td id="hovers"><a href="YNS">Click Here</a></td>
 			</tr>
 		</table>
 
@@ -354,31 +354,31 @@ a {
 				<td>3</td>
 				<td>BIO-TECHNOLOGY COURSES</td>
 				<td>6</td>
-				<td id="hovers"><a href="specialisedcource.jsp\#BTC">Click Hear</a></td>
+				<td id="hovers"><a href="specialisedcource.jsp\#BTC">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td>BUSINESS COURSES</td>
 				<td>113</td>
-				<td id="hovers"><a href="specialisedcource.jsp\#BE">Click Hear</a></td>
+				<td id="hovers"><a href="specialisedcource.jsp\#BE">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>5</td>
 				<td>FASHION COURSES</td>
 				<td>37</td>
-				<td id="hovers"><a href="#FC">Click Hear</a></td>
+				<td id="hovers"><a href="#FC">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>6</td>
 				<td>MEDIA COURSES</td>
 				<td>33</td>
-				<td id="hovers"><a href="#MC">Click Hear</a></td>
+				<td id="hovers"><a href="#MC">Click Here</a></td>
 			</tr>
 			<tr>
 				<td>7</td>
 				<td>SHIPPING COURSES</td>
 				<td>27</td>
-				<td id="hovers"><a href="#SC">Click Hear</a></td>
+				<td id="hovers"><a href="#SC">Click Here</a></td>
 			</tr>
 		</table>
 	</div>
