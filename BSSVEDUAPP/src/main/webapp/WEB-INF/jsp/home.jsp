@@ -20,26 +20,26 @@
 
 .imagescrolls {
 	width: 70%;
-	height: 220px;
 	margin: auto;
 	align-content: center;
 	font-style: arial;
+	padding-top:10px; 
 }
 </style>
 </head>
 <body>
 
-	<div style="background-color: #e35b12; height: 40px; width: auto;">
+	<div style="background-color: #e35b12;">
 
 		<h3 style="text-align: center;padding:3px;color: yellow;">
 				<b>${message}</b>
-					<b style="font-size: 18px; color: white">(6Am &nbsp-&nbsp9 PM)&nbspMON-SUN</h5></b>
+					<b style="font-size: 18px; color: white">(6Am &nbsp;-&nbsp;9 PM)&nbsp;&amp;&nbsp;MON-SUN</b>
 					
 		</h3>
 	</div>
 
 	<div class="imagescroll">
-		<table bgcolor="#ad8f07" style="margin: 60px; border-radius: 5px;height:450px;">
+		<table bgcolor="#ad8f07" style="margin: 60px; border-radius: 5px;">
 			<tr>
 				<td><img src="images/home.jpg" id="imgrepit"></td>
 			</tr>

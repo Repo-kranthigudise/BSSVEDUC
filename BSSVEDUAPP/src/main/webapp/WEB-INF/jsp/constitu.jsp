@@ -4,10 +4,17 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>constitution</title>
+<style type="text/css">
+.constitute{
+padding: 5px;
+font-family: Arial, Helvetica, sans-serif;
+}
+</style>
 </head>
 <body>
-	<div style="background-color: #e35b12; height: 40px; width: auto;">
+<div class="constitute">
+	<div style="background-color: #e35b12; ">
 
 		<h3 style="text-align: center; padding: 10px">
 			<b>${message}</b>
@@ -852,5 +859,6 @@
 	<br>Bharatha Bhagya - vidhatha
 	<br>Jaya he; Jaya he; Jaya he.......
 	<br>Jaya Jaya Jaya Jaya he.......
+	</div>
 </body>
 </html>

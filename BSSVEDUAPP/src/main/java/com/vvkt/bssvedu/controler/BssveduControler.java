@@ -80,7 +80,7 @@ public class BssveduControler {
 
 	@GetMapping("/info")
 	public String bssInfo(Model model) {
-		String msg = "Congartulations for YourFeature:BSSVEDU INFO";
+		String msg = "ADMINISTRATION";
 		model.addAttribute("message", msg);
 		return "info";
 	}

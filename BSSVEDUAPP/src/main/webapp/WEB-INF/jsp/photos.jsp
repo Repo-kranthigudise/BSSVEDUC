@@ -18,7 +18,7 @@
 	<hr />
 	<br />
 	<div class="main_view">
-		<img src="images\photos\P1.Jpg" id="main" alt="IMAGE">
+		<img src="images\photos\P1.jpg" id="main" alt="IMAGE">
 	</div>
 	<div>
 	
@@ -31,23 +31,23 @@
 	<table class="photos" style="padding-left: 100px;padding-top: 10px;">
 
 		<tr>
-			<td><img src="images\photos\a2.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\a2.jpg" onclick="change(this.src)"></td>
 			<td><img src="images\photos\a5.png" onclick="change(this.src)"></td>
-			<td><img src="images\photos\a4.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images\photos\s4.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\a4.jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\s4.jpg" onclick="change(this.src)"></td>
 		</tr>
 		<tr>
-			<td><img src="images\photos\a1.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images\photos\b1.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images\photos\P1.Jpg"  onclick="change(this.src)"></td>
-			<td><img src="images\photos\b2.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\a1.jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\b1.jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\P1.jpg"  onclick="change(this.src)"></td>
+			<td><img src="images\photos\b2.jpg" onclick="change(this.src)"></td>
 		</tr>
 		
 		<tr>
-			<td><img src="images\photos\t1.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images\photos\a7.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images\photos\s1.Jpg" onclick="change(this.src)"></td>
-			<td><img src="images\photos\r1.Jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\t1.jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\a7.jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\s1.jpg" onclick="change(this.src)"></td>
+			<td><img src="images\photos\r1.jpg" onclick="change(this.src)"></td>
 		</tr>
 	</table>
 	<hr>
